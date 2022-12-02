@@ -4,7 +4,11 @@
 O aplicativo ChatCompleto tem uma bela interface de usuário responsiva. O aplicativo inclui muitos recursos, como autenticação do usuário usando e-mail e números de telefone, mensagens on-line (texto, imagens, áudios), status/histórias, bate-papos em grupo, chamadas de vídeo e chamadas em grupo. O aplicativo é um pouco semelhante ao WhatsApp.
 Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para autenticação, mensagens e banco de dados, plataforma de streaming Agora para videochamadas e chamadas em grupo e muitos widgets incríveis.
 
-![Lets-Chat-App-Main-Screenshots](images/lets_chat_main.png)
+<img src="images/image1.png" />
+<img src="images/image2.png" />
+<img src="images/image3.png" />
+<img src="images/image4.png" />
+<img src="images/image5.png" />
 
 ## Características
 - Autenticação do número de telefone
@@ -21,8 +25,6 @@ Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para aute
 ## Tecnologia usada
 <b>Server: </b>Firebase (Firebase Auth, Firebase Core, Firebase Firestore, Firebase Storage).<br>
 <b>State Management: </b>Riverpod<br>
-
-![Lets-Chat-App-Screenshot](images/lets_chat_screens.png)
 
 ### Usando Extension do FlilipeCastroSales (https://github.com/felipecastrosales)
 
@@ -49,3 +51,15 @@ Context Extension (https://github.com/felipecastrosales/context_extension)
 Install Firebase CLI here<br/>
 run dart pub global activate flutterfire_cli in your Flutter project<br/>
 run flutterfire configure<br/>
+
+
+
+<h2>📝 Licença</h2>
+
+<p>
+   Esse repositório está sobre a Licença GNU General Public License v3.0, e você pode vê-la no arquivo <a href="https://github.com/caneto/calculator-app/blob/main/LICENSE">LICENSE</a> para mais detalhes. 😉
+</p>
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alberto-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canetorj/)](https://www.linkedin.com/in/canetorj/)
