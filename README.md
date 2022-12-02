@@ -29,15 +29,15 @@ Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para aute
 Context Extension (https://github.com/felipecastrosales/context_extension)
 
 ### Breve a ser implantado.
-<br/>
+
 --> Login pelo Google (Flutter)<br/>
 --> Login por email (Flutter)<br/>
 --> Google Analytics (Flutter)<br/>
 --> Crashlytics (Flutter)<br/>
 --> Remote Config para paremetrizar a distancia e chaves. (Flutter)<br/>
-<br/>
-#### Para Executar, alem de se registrar no Firebase.
-<br/>
+
+### Para Executar, alem de se registrar no Firebase.
+
 *-> Crie um Firestore Base<br/>
 *-> Crie um Authentication<br/>
 *-> Crie um Storage.<br/>
