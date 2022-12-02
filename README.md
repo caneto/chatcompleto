@@ -4,11 +4,11 @@
 O aplicativo ChatCompleto tem uma bela interface de usuário responsiva. O aplicativo inclui muitos recursos, como autenticação do usuário usando e-mail e números de telefone, mensagens on-line (texto, imagens, áudios), status/histórias, bate-papos em grupo, chamadas de vídeo e chamadas em grupo. O aplicativo é um pouco semelhante ao WhatsApp.
 Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para autenticação, mensagens e banco de dados, plataforma de streaming Agora para videochamadas e chamadas em grupo e muitos widgets incríveis.
 
-<img src="images/image1.png" />
-<img src="images/image2.png" />
-<img src="images/image3.png" />
-<img src="images/image4.png" />
-<img src="images/image5.png" />
+<img src="https://github.com/caneto/chatcompleto/blob/main/images/image1.jpg" />
+<img src="https://github.com/caneto/chatcompleto/blob/main/images/image2.jpg" />
+<img src="https://github.com/caneto/chatcompleto/blob/main/images/image3.jpg" />
+<img src="https://github.com/caneto/chatcompleto/blob/main/images/image4.jpg" />
+<img src="https://github.com/caneto/chatcompleto/blob/main/images/image5.jpg" />
 
 ## Características
 - Autenticação do número de telefone
