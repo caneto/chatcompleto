@@ -29,23 +29,23 @@ Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para aute
 Context Extension (https://github.com/felipecastrosales/context_extension)
 
 ### Breve a ser implantado.
-
---> Login pelo Google (Flutter)
---> Login por email (Flutter)
---> Google Analytics (Flutter)
---> Crashlytics (Flutter)
---> Remote Config para paremetrizar a distancia e chaves. (Flutter)
-
+<br/>
+--> Login pelo Google (Flutter)<br/>
+--> Login por email (Flutter)<br/>
+--> Google Analytics (Flutter)<br/>
+--> Crashlytics (Flutter)<br/>
+--> Remote Config para paremetrizar a distancia e chaves. (Flutter)<br/>
+<br/>
 #### Para Executar, alem de se registrar no Firebase.
-
--> Crie um Firestore Base
--> Crie um Authentication
--> Crie um Storage.
-
--> na engrenagem ao lado do Visão Geral do projeto, baixe o novo *.json e adione a raiz do seu Anndroid app
-
-e rode estes parametros.
-
-Install Firebase CLI here
-run dart pub global activate flutterfire_cli in your Flutter project
-run flutterfire configure
+<br/>
+*-> Crie um Firestore Base<br/>
+*-> Crie um Authentication<br/>
+*-> Crie um Storage.<br/>
+<br/>
+*-> na engrenagem ao lado do Visão Geral do projeto, baixe o novo *.json e adione a raiz do seu Anndroid app
+<br/>
+*e rode estes parametros.<br/>
+<br/>
+Install Firebase CLI here<br/>
+run dart pub global activate flutterfire_cli in your Flutter project<br/>
+run flutterfire configure<br/>
