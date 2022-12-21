@@ -43,6 +43,44 @@ Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para aute
 <b>Server: </b>Firebase (Firebase Auth, Firebase Core, Firebase Firestore, Firebase Storage).<br>
 <b>State Management: </b>Riverpod<br>
 
+####### [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
+
+####<h2>🛠️ Funcionalidades e Componentes usados</h2>
+
+- flutter
+
+- page_route_animator - 1.0.3
+- google_fonts - 3.0.1
+
+- firebase_core - 2.3.0
+- cloud_firestore - 4.1.0
+- firebase_auth - 4.1.4
+- firebase_storage - 11.0.6
+
+- country_picker - 2.0.16
+- flutter_riverpod - 1.0.4
+- image_picker - 0.8.5+3
+- flutter_contacts - 1.1.5
+- equatable - 2.0.5
+- uuid - 3.0.6
+- intl - 0.17.0
+- cached_network_image - 3.2.2
+- video_player - 2.4.7
+- emoji_picker_flutter - 1.4.0
+- giphy_picker - 2.0.0
+- permission_handler - 10.0.0
+- path_provider - 2.0.11
+- flutter_sound - 9.2.13
+- audioplayers - 1.1.0
+- swipe_to - 1.0.2
+- story_view - 0.13.2
+- agora_uikit - 1.1.0
+
+
+
+<b>Desenvolvido apenas para Android, e iOS.</b> - Testado exclusivamente em Android (Emulador). 
+
+
 ### Usando Extension do FlilipeCastroSales (https://github.com/felipecastrosales)
 
 Context Extension (https://github.com/felipecastrosales/context_extension)
