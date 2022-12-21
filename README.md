@@ -43,9 +43,9 @@ Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para aute
 <b>Server: </b>Firebase (Firebase Auth, Firebase Core, Firebase Firestore, Firebase Storage).<br>
 <b>State Management: </b>Riverpod<br>
 
-####### [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
+## [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
 
-####<h2>🛠️ Funcionalidades e Componentes usados</h2>
+<h2>🛠️ Funcionalidades e Componentes usados</h2>
 
 - flutter
 
@@ -75,7 +75,6 @@ Aplicativo ChatCompleto criado com Riverpod State Management, Firebase para aute
 - swipe_to - 1.0.2
 - story_view - 0.13.2
 - agora_uikit - 1.1.0
-
 
 
 <b>Desenvolvido apenas para Android, e iOS.</b> - Testado exclusivamente em Android (Emulador). 
